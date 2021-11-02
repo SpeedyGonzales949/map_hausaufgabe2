@@ -2,8 +2,8 @@ package com.company;
 
 public class Hindernislauf extends Leichtathletik{
     /**
-     * 
-     * @return
+     * implementiert die abstrakte Methode von Leichtathletik
+     * @return time spent for Hindernislauf
      */
     @Override
     public double kalkuliereZeit() {

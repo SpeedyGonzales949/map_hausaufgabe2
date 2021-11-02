@@ -2,8 +2,9 @@ package com.company;
 
 public class Fussball extends Manschaftssport{
     /**
+     * implementiert die abstrakte Methode von Mannschaft
+     * @return time spent for Fussball Game
      *
-     * @return
      */
     @Override
     public double kalkuliereZeit() {

@@ -2,10 +2,9 @@ package com.company;
 
 
 public interface Sport {
-
     /**
-     *
-     * @return
+     * calculates the time needed to be spent for a sport
+     * @return time(double) spent
      */
     double kalkuliereZeit();
 }
